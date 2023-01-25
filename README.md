@@ -2,6 +2,8 @@
 [![2222-42's github stats](https://github-readme-stats.vercel.app/api?username=2222-42&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2222-42&hide=html,c%2B%2B&langs_count=8&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://matsuri-tech.github.io/matsuri-achievements/imgs/achievement-list/2222-42.svg)
+
 # Programming
 
 Most used in business are Ruby, Rust and Go.
