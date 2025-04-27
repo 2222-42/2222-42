@@ -11,6 +11,9 @@ Most used in business are Ruby, Rust and Go.
 
 StandardMLを趣味でやっていて、大堀　淳『プログラミング言語 Standard ML入門』の[解答例](http://www.pllab.riec.tohoku.ac.jp/~ohori/texts/MLTextEX/mltextEx.xhtml)の修正を一部実施しました。
 
+- 大堀 淳(2021)『プログラミング言語 Standard ML 入門　改訂版』の謝辞に名前が載る。(参考: https://atsushiohori.github.io/ja/texts/standard-ml/acknowledgments/ )
+- 大堀 淳(2021)『コンパイラ ー 原理と構造』の[筆者HPの謝辞](https://atsushiohori.github.io/ja/texts/standard-ml/acknowledgments/)に名前が載る。
+
 # Formal Driven Development
 
 I am interested in Formal Driven Develpment and Formal Methods, I have some repositories to track my studies.
